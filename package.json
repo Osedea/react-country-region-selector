@@ -42,18 +42,19 @@
     "react-dom": "^15.0.0 || ^16.0.0"
   },
   "dependencies": {
+    "country-region-data": "https://github.com/Osedea/country-region-data",
     "prop-types": "^15.5.8",
+    "react-component-gulp-tasks": "https://github.com/Osedea/react-component-gulp-tasks.git",
     "reactify": "^1.1.1"
   },
   "devDependencies": {
-    "country-region-data": "^1.4.2",
     "gulp": "^3.9.1",
+    "gulp-git": "^2.8.0",
     "gulp-param": "^1.0.3",
     "gulp-rename": "^1.2.2",
     "gulp-template": "^4.0.0",
     "gulp-util": "^3.0.7",
     "react": "^15.6.1",
-    "react-component-gulp-tasks": "^0.7.7",
     "react-dom": "^15.6.1",
     "run-sequence": "^1.2.1",
     "yargs": "^4.7.1"
