@@ -44,7 +44,7 @@
   "dependencies": {
     "country-region-data": "https://github.com/Osedea/country-region-data",
     "prop-types": "^15.5.8",
-    "react-component-gulp-tasks": "https://github.com/Osedea/react-component-gulp-tasks.git",
+    "react-component-gulp-tasks": "^0.7.7",
     "reactify": "^1.1.1"
   },
   "devDependencies": {
