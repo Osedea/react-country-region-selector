@@ -42,7 +42,7 @@
     "react-dom": "^15.0.0 || ^16.0.0"
   },
   "dependencies": {
-    "country-region-data": "https://github.com/Osedea/country-region-data#2.0.0",
+    "country-region-data": "https://github.com/Osedea/country-region-data#2.1.0",
     "prop-types": "^15.5.8",
     "react-component-gulp-tasks": "^0.7.7",
     "reactify": "^1.1.1"
