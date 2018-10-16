@@ -15,6 +15,14 @@ size down.
 change name attributes, add you own custom onChange handlers to do whatever you want etc.
 
 
+### OSEDEA: Regenerate files
+
+```bash
+nvm use 6
+gulp build
+```
+
+
 ### Examples
 
 Check out the [github pages](http://benkeen.github.io/react-country-region-selector/) section for some examples + example
