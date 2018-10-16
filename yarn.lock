@@ -1267,9 +1267,9 @@ core-util-is@1.0.2, core-util-is@~1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/core-util-is/-/core-util-is-1.0.2.tgz#b5fd54220aa2bc5ab57aab7140c940754503c1a7"
 
-"country-region-data@https://github.com/Osedea/country-region-data#2.1.0":
+"country-region-data@https://github.com/Osedea/country-region-data#2.2.0":
   version "2.0.1"
-  resolved "https://github.com/Osedea/country-region-data#0bc4fa2009b6659df64988a0854405448dc07b48"
+  resolved "https://github.com/Osedea/country-region-data#867535d9b4b5cf95e6724771f3f62a708e8626cf"
 
 crc@3.3.0:
   version "3.3.0"
